@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1649584245 source:c:\users\dell\documents\c++\movingsquareinanothersquare\main.cpp
+	"SDL_utils.h"
+
+1649580269 c:\users\dell\documents\c++\movingsquareinanothersquare\sdl_utils.h
+	<iostream>
+	<string.h>
+	<vector>
+	<fstream>
+	<conio.h>
+	<time.h>
+
+1649583185 source:c:\users\dell\documents\c++\movingsquareinanothersquare\sdl_utils.cpp
+	"SDL_utils.h"
+
